@@ -1,0 +1,38 @@
+
+    body{
+        margin-left: 300px;
+    }
+    h3{
+        margin-top: 20px;
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    label{
+        margin-left: 20px;
+    }
+    .conn{
+        width: 800px;
+        height: 100%;
+        margin-top: 30px;
+        display: block;
+        overflow: auto;
+    }
+    button.btn{
+        background-color: #4CAF50;
+        border-color: #4CAF50;
+    }
+    button.btn:hover{
+        background-color: #4CAF50;
+        border-color: #4CAF50;
+    }
+    .content{
+        
+        border: 1px solid #ccc;
+        margin-bottom: 20px;
+    }
+    td{
+        font-weight: bold;
+    }
+
+
+    
